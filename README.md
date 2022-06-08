@@ -1,4 +1,5 @@
 Java 11 ile gelen yenilikler
+
 1-) Java 11 ile birlikte oracleJDK ve openJDK kavramları hayatımıza girmiş oldu 
 2-) Kaynak kod dosyalarının(*.java) derlemeden(*.class, "compile") direkt yürütülebiliyor olması.
 3-) Java 11 ile birlikte oracle yeni lisans stratejisini uygulamaya geçirdi.
